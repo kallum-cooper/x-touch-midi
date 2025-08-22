@@ -26,7 +26,7 @@ sudo apt install python3 python3-rtmidi xdotool pulseaudio-utils
 
 ## Installation
 
-###Clone the repo
+Clone the repo
 
 ```
 git clone https://github.com/kallum-cooper/x-touch-midi.git
