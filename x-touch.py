@@ -6,7 +6,7 @@ import tkinter as tk
 
 # === CONFIGURATION ===
 knob_apps = {
-    1: "Google Chrome",
+    1: "Chrome",
     2: "Google Chrome",
     3: "Chrome",
     4: "VLC",
