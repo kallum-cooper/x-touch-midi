@@ -2,7 +2,7 @@
 
 # X-Touch MIDI Volume Controller
 
-Control the volume of specific applications and the currently focused window using an X-Touch MINI MIDI controller on Linux (PulseAudio).
+Control the volume of specific applications and the currently focused window using an X-Touch MINI MIDI controller on Linux (PulseAudio). Tested on Ubuntu 24.04.
 
 Knobs can be mapped to specific apps, and one knob can dynamically control the focused window's volume.
 
