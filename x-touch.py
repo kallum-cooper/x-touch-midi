@@ -3,6 +3,8 @@ import rtmidi
 import subprocess
 import re
 
+#testey
+
 # === CONFIGURATION ===
 # Map each knob/slider to the application you want to control
 knob_apps = {
