@@ -19,7 +19,7 @@ Map any knob to a specific application (e.g., Chrome, VLC, Spotify, Discord).
 
 ```
 sudo apt update
-sudo apt install python3 python3-rtmidi xdotool pulseaudio-utils
+sudo apt install python3 python3-rtmidi xdotool pulseaudio-utils python3-tk
 
 ```
 
